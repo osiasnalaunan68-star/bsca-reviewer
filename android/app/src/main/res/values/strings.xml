@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BSCA Reviewer Osias.org</string>
+    <string name="title_activity_main">BSCA Reviewer Osias.org</string>
+    <string name="package_name">com.osias.bscareviewer</string>
+    <string name="custom_url_scheme">com.osias.bscareviewer</string>
+</resources>
