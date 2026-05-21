@@ -575,5 +575,3 @@ function SingleAddModal({T,S,cat,onSave,onClose}){
     </Modal>
   );
 }
-
-```
